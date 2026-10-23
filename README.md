@@ -69,3 +69,5 @@ This is an educational prototype and must not be used to transport a person unti
 ## Project Report
 
 The complete project report is available in the PDF file uploaded to this repository. Please open the PDF in the file list above to read the report.
+
+![Project Banner](images/README-banner.png)
