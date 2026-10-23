@@ -35,3 +35,30 @@ This project helps people with physical disabilities control a wheelchair using 
 
 ## Safety
 This is an educational prototype and must be thoroughly tested before human use.
+
+## Project status
+
+Academic project for developing a voice-controlled wheelchair prototype using Arduino and Bluetooth.
+
+## Key Features
+
+- Voice-command-based movement
+- Bluetooth communication
+- Arduino-based motor control
+- GPS location tracking capability
+
+## Future Improvements
+
+- Add obstacle detection and avoidance
+- Implement emergency alerts
+- Enable live GPS location sharing
+- Add project photographs and circuit diagrams
+- Publish the Arduino source code
+
+## Documentation
+
+Refer to the uploaded project report PDF for the project details.
+
+## Safety
+
+This is an educational prototype and must not be used to transport a person until appropriate safety mechanisms have been thoroughly tested.
