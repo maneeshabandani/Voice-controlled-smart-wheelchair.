@@ -62,3 +62,7 @@ Refer to the uploaded project report PDF for the project details.
 ## Safety
 
 This is an educational prototype and must not be used to transport a person until appropriate safety mechanisms have been thoroughly tested.
+
+## Project Report
+
+The complete project report is available in the PDF file uploaded to this repository. Please open the PDF in the file list above to read the report.
