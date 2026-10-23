@@ -67,5 +67,3 @@ This is an educational prototype and must not be used to transport a person unti
 [Open project report](https://github.com/maneeshabandani/Voice-controlled-smart-wheelchair./blob/main/voice%20controlled%20wheel%20chair.pdf)
 
 The complete project report is available in the PDF file uploaded to this repository. Please open the PDF in the file list above to read the report.
-
-![Project Banner](images/README-banner.png)
