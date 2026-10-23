@@ -64,8 +64,7 @@ Refer to the uploaded project report PDF for the project details.
 This is an educational prototype and must not be used to transport a person until appropriate safety mechanisms have been thoroughly tested.
 
 ## Project Report
-
-"Click here to read the project report" (./voice%20controlled%20wheel%20chair.pdf)
+[Open project report](https://github.com/maneeshabandani/Voice-controlled-smart-wheelchair./blob/main/voice%20controlled%20wheel%20chair.pdf)
 
 ## Project Report
 
